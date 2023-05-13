@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
         borderRadius: 50,
         paddingBottom: 5,
         paddingTop: 5,
-        marginTop: 5,
+        marginTop: 10,
     },
     sharedText: {
         color: "#ffffff",

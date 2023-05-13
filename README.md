@@ -44,5 +44,6 @@ Desenvolvido através do React Native, utilizando componentes funcionais e React
 
 * React Native
 * React Hooks
+* Functional Components
 * Vibration API
 * Share API
