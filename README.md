@@ -2,7 +2,7 @@
 
 ## :page_with_curl: About/Sobre
 
-<img width="100%" src="./onebithealth.png" alt="Project-preview" />
+<img width="100%" src="./onebit.png" alt="Project-preview" />
 
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary>
