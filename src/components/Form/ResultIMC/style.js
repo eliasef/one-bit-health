@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
     containerIMC: {
         flex: 1,
-        paddingTop: 30,
+        paddingTop: 15,
         borderRadius: 50,
         alignItems: "center",
         width: "100%",
@@ -27,12 +27,23 @@ const styles = StyleSheet.create({
         backgroundColor: "#1877f2",
         borderRadius: 50,
         paddingBottom: 5,
-        paddingTop: 5
+        paddingTop: 5,
+        marginTop: 5,
     },
     sharedText: {
         color: "#ffffff",
         fontWeight: "bold",
         paddingHorizontal: 30,
+    },
+    boxClassIMC: {
+        flexDirection: "row",
+    },
+    txtClassIMC: {
+        fontSize: 20
+    },
+    classificationIMC: {
+        fontSize: 30,
+        fontWeight: 300
     }
 });
 
